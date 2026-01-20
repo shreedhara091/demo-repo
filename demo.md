@@ -7,3 +7,6 @@ this is the body of the demo!!
 
 this is description
 
+## local dev
+
+1.open the index.html in browser 
